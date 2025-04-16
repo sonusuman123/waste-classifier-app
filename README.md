@@ -1,1 +1,0 @@
-# waste-classifier-app
